@@ -2,4 +2,4 @@
 
 ## It has some information about me
 
-## All rights reserved 
+### All rights reserved 

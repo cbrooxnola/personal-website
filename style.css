@@ -1,0 +1,12 @@
+nav {
+  color: forestgreen;
+  background-color: palevioletred;
+  display: flexbox;
+}
+
+body {
+  background-color: plum;
+}
+h1 {
+  color: royalblue;
+}
