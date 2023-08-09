@@ -1,8 +1,12 @@
 nav {
-  font-size: 22px;
-  font-style: bold;
   background-color: rgb(244, 245, 174);
   width:fit-content;
+}
+a {
+  font-size: 22px;
+  font-style: bold;
+  color:rgb(4, 10, 29);
+  background-color: rgb(244, 245, 174);
 }
 
 body {
@@ -13,6 +17,7 @@ h1 {
   color: rgb(2, 14, 51);
 }
 p {
+  font-family: cursive;
   font-size: 22px;
   font-style: bold;
   color: rgb(93, 3, 3);
