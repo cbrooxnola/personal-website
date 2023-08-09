@@ -1,6 +1,8 @@
 nav {
   background-color: rgb(244, 245, 174);
   width:fit-content;
+  border: solid purple;
+  padding: 10px;
 }
 a {
   font-family: cursive;
@@ -8,6 +10,7 @@ a {
   font-style: bold;
   color:rgb(4, 10, 29);
   background-color: rgb(244, 245, 174);
+  padding: 6px;
 }
 
 body {
