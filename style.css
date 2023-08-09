@@ -3,6 +3,7 @@ nav {
   width:fit-content;
 }
 a {
+  font-family: cursive;
   font-size: 22px;
   font-style: bold;
   color:rgb(4, 10, 29);
@@ -15,10 +16,17 @@ body {
 }
 h1 {
   color: rgb(2, 14, 51);
+  font-family: cursive;
 }
 p {
   font-family: cursive;
   font-size: 22px;
   font-style: bold;
   color: rgb(93, 3, 3);
+}
+footer {
+  font-size: 22px;
+  color: rgb(10, 3, 3);
+  font-style: bold;
+  font-style: italic;
 }
